@@ -1,0 +1,3 @@
+/Users/yepeisheng/workspace_nodejs/nodejsbook/mongodb-osx-x86_64-2.6.6/bin/mongod --dbpath /Users/yepeisheng/workspace_nodejs/nodejsbook/mongodb/db
+
+mongo admin --username root --password c04sGxbdj3ZS
